@@ -12,7 +12,7 @@ Useful for preprocessing satellite images before NDVI, NDWI, and land-use change
 
 ---
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 1. **Google Earth Engine Account**  
    Sign up: [https://signup.earthengine.google.com/](https://signup.earthengine.google.com/)
