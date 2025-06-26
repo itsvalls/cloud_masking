@@ -1,0 +1,6 @@
+earthengine-api
+geemap
+flask  
+numpy
+rasterio
+matplotlib
